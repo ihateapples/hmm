@@ -1,3 +1,5 @@
+print("Chat Spy Loaded! - yef#4586")
+
 --This script reveals ALL hidden messages in the default chat
 --chat "/spy" to toggle!
 enabled = true
